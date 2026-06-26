@@ -1,0 +1,18 @@
+# macOS / iCloud junk
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon?
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# Editor
+.vscode/
+
+# Claude Code local config
+.claude/
